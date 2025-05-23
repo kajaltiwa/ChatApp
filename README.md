@@ -13,7 +13,6 @@ A simple real-time chat application built with **Node.js**, **Express**, and **S
 ## 🛠️ Technologies Used
 
 - Node.js
-- Express.js
 - Socket.io
 - HTML/CSS/JavaScript
 
